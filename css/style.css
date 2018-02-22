@@ -1,0 +1,234 @@
+ /* NAVBAR */
+
+ .navbar {
+     background-color: black;
+ }
+
+ .navbar-brand:hover {
+     color: deepskyblue !important;
+ }
+
+ .nav-item {
+     margin-left: 25px;
+ }
+
+ .nav-link:hover {
+     color: deepskyblue !important;
+ }
+
+ .navbar-nav a {
+     color: white;
+
+ }
+
+ .navbar-nav a:hover {
+     text-decoration: none;
+     color: white;
+ }
+
+ .navbar-nav button {
+     margin-right: 50px;
+
+ }
+
+ /* END NAVBAR */
+
+ /* HEADER */
+
+ .header {
+     background-color: #3399CC;
+     margin-top: -48px;
+     padding: 0px 20px 15px 20px;
+ }
+
+ .header h1 {
+     text-align: center;
+     font-style: italic;
+     font-family: sans-serif;
+     padding-top: 30px;
+ }
+
+ .header p {
+
+     text-align: center;
+     font-style: oblique;
+     font-size: 22px;
+ }
+
+
+ .header .btn a {
+     color: black;
+     text-decoration: none;
+ }
+
+ /* END HEADER */
+
+ /* SERVICES */
+
+ .services {
+     padding: 80px 0 80px;
+     text-align: center;
+     background-color: lightgreen;
+ }
+
+ .services h2,
+ .services h4 {
+     color: green;
+     margin: 20px 0 20px;
+     font-style: oblique;
+     font-family: sans-serif;
+ }
+
+ .services p {
+     color: #222020;
+     font-size: 15px;
+     padding-bottom: 40px;
+     font-family: serif;
+     font-weight: 900;
+
+ }
+
+ .services img {
+     height: 250px;
+     width: 250px;
+     font-size: 30px;
+     padding: 25px 20px;
+     color: #fff;
+ }
+
+ /* END SERVICES */
+
+ /* TRAINERS */
+
+ .trainers {
+     text-align: center;
+     background-color: #3399CC;
+     color: black;
+     padding: 80px 0 80px;
+ }
+
+ .trainers h2 {
+     text-align: center;
+     padding-bottom: 50px;
+     color: black;
+ }
+
+ .trainers h4,
+ .trainers p {
+     text-align: center;
+     padding-top: 20px;
+     font-family: 'PT Sans';
+ }
+
+ .trainers img {
+     height: 450px;
+     width: 270px;
+ }
+
+ .trainers .btn {
+     margin: 15px;
+ }
+
+ /* END TRAINERS */
+
+ /* PRICING */
+
+ .pricing {
+     background-color: lightgreen;
+     padding: 80px 0 80px;
+ }
+
+ .pricing h2 {
+     padding: 30px 0 50px;
+     text-align: center;
+     color: black;
+ }
+
+
+ .pricing .package {
+     background-color: white;
+     height: 400px;
+     margin-bottom: 50px;
+ }
+
+ .pricing .package h4 {
+     text-align: center;
+     font-family: serif;
+     padding-top: 10px;
+     padding-bottom: 20px;
+ }
+
+ .pricing .package li {
+     list-style-type: none;
+     margin-top: 20px;
+     margin-left: 20px;
+ }
+
+ .pricing .package .btn {
+     margin-top: 50px;
+     text-align: center;
+     margin-left: 65px;
+ }
+
+ .package i {
+     font-size: 20px;
+ }
+
+ /* CONTACT */
+
+ .contact {
+     background-color: #3399CC;
+     padding-right: 50px 0 80px;
+     text-align: center;
+     padding: 80px 0 80px;
+ }
+
+ h2 {
+     font-family: Raleway;
+     color: mediumpurple;
+     color: black;
+
+ }
+
+ .contact .contact-form {
+     float: left;
+     width: 80%;
+     font-size: 17px;
+     font-family: sans-serif;
+     padding-top: 10px;
+ }
+
+ .contact .message-form {
+     float: right;
+     width: 100%;
+     font-size: 17px;
+     font-family: sans-serif;
+     padding-top: 10px;
+ }
+
+ /* END CONTACT */
+
+ /* FOOTER */
+
+ .footer {
+     color: #cccccc;
+     background-color: #222222;
+ }
+
+ .footer .social {
+     
+ }
+
+ h4 {
+     padding-top: 30px;
+     padding-bottom: 15px;
+     font-style: italic;
+ }
+
+ .footer input {
+     margin-top: 10px;
+ }
+
+ .footer .btn {
+     margin-left: 10px;
+ }
